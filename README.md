@@ -1,5 +1,7 @@
 # STATISTICAL ARBITRAGE SYSTEM IMPLEMENTATION
 
+I am attemtping to build a trading system, one component at a time. Let's get started.
+
 We need several different modules that will work together:
 
 1. data collection
@@ -66,6 +68,9 @@ This module will do the following:
 
 
 
+
+
+//TODO: CONTINUE WITH MORE MODULES AFTER DATA MODULE IS COMPLETE
 
 
 

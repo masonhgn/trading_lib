@@ -11,7 +11,7 @@ enum SecurityType {
     CRYPTO,
     OPTION,
     FUTURE
-}
+};
 
 
 struct TimeSeries {

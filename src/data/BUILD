@@ -4,11 +4,10 @@ cc_library(
         "DatabaseWrapper.cpp",
         "Preprocessor.cpp",
     ],
-    deps = [
-        "//src/include/modules:modules_headers",
-    ],
-    includes = [
-        "include",
+    hdrs = [
+        "DatabaseWrapper.h",
+        "Preprocessor.h",
+        "TimeSeries.h",
     ],
     visibility = ["//visibility:public"],
 )
